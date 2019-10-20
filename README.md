@@ -39,7 +39,3 @@ The value of  6500.0  units is:
 4. Detect to what range of units belongs the input value.
 5. Perform the extrapolation formula.
 6. Show the result to the user.
-
-## Considerations
-This script uses as an input one csv file as a source, the source could be updated externally and the script works since it reads it every time it runs.
-
